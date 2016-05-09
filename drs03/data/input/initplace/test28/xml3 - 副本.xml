@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ACTION VERSION="0.1">
+  <PLACE ID="ID_0" TRAGET="pm7" VMID="vm0"/>
+  <PLACE ID="ID_1" TRAGET="pm9" VMID="vm1"/>
+  <PLACE ID="ID_2" TRAGET="pm7" VMID="vm2"/>
+  <PLACE ID="ID_3" TRAGET="pm7" VMID="vm3"/>
+  <PLACE ID="ID_4" TRAGET="pm6" VMID="vm4"/>
+  <PLACE ID="ID_5" TRAGET="pm0" VMID="vm5"/>
+  <PLACE ID="ID_6" TRAGET="pm6" VMID="vm6"/>
+  <PLACE ID="ID_7" TRAGET="pm9" VMID="vm7"/>
+  <PLACE ID="ID_8" TRAGET="pm6" VMID="vm8"/>
+  <PLACE ID="ID_9" TRAGET="pm0" VMID="vm9"/>
+  <PLACE ID="ID_10" TRAGET="pm0" VMID="vm10"/>
+</ACTION>

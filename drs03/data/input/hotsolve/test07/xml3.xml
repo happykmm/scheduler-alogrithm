@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ACTION VERSION="0.1">
+  <MSG ID="ID_0" CONT="These VMs can not be migrated :" VMLIST="vm0,vm1,vm2,vm3" TYPE="HOTSOLVE"/>
+</ACTION>

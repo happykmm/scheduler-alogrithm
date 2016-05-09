@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DATA VERSION="0.1">
+	<PEDEGE PM1ID="1" PM2ID="5" PM1Port="eth0" PM2Port="eth0" DELAY="1" BANDWIDTH="30"/>
+	<PEDEGE PM1ID="2" PM2ID="5" PM1Port="eth0" PM2Port="eth0" DELAY ="1" BANDWIDTH="30"/>
+	<PEDEGE PM1ID="3" PM2ID="6" PM1Port="eth0" PM2Port="eth0" DELAY ="2" BANDWIDTH="30"/>
+	<PEDEGE PM1ID="1" PM2ID="7" PM1Port="eth0" PM2Port="eth0" DELAY ="2" BANDWIDTH="30"/>  
+</DATA>

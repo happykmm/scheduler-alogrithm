@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DATA VERSION="0.1">
+
+  <AFFINITY AT="fr0" TYPE="2" TRAFFIC="0" DELAY="0" VMIDS="vm0"/>
+  <AFFINITY AT="fr0" TYPE="2" TRAFFIC="0" DELAY="0" VMIDS="vm1"/>
+  <AFFINITY AT="fr0" TYPE="2" TRAFFIC="0" DELAY="0" VMIDS="vm2"/>
+  <AFFINITY AT="fr0" TYPE="2" TRAFFIC="0" DELAY="0" VMIDS="vm3"/>
+  <AFFINITY AT="fr0" TYPE="2" TRAFFIC="0" DELAY="0" VMIDS="vm4"/>
+  <AFFINITY AT="fr0" TYPE="2" TRAFFIC="0" DELAY="0" VMIDS="vm5"/>
+  <AFFINITY AT="fr0" TYPE="2" TRAFFIC="0" DELAY="0" VMIDS="vm6"/>
+  <AFFINITY AT="fr0" TYPE="2" TRAFFIC="0" DELAY="0" VMIDS="vm7"/>
+  <AFFINITY AT="fr0" TYPE="2" TRAFFIC="0" DELAY="0" VMIDS="vm8"/>
+  <AFFINITY AT="fr0" TYPE="2" TRAFFIC="0" DELAY="0" VMIDS="vm9"/>
+   
+  <AFFINITY AT="" TYPE="3" TRAFFIC="0" DELAY="0" VMIDS="vm10,vm11,vm12,vm13,vm14,vm15,vm16,vm17,vm18,vm19,vm20,vm21,vm22,vm23,vm24,vm25,vm26,vm27,vm28,vm29"/>
+  
+  <AFFINITY AT="" TYPE="2" TRAFFIC="0" DELAY="0" VMIDS="vm10,vm11,vm12,vm13,vm14,vm15,vm16,vm17,vm18,vm19"/>
+  <AFFINITY AT="" TYPE="2" TRAFFIC="0" DELAY="0" VMIDS="vm20,vm21,vm22,vm23,vm24,vm25,vm26,vm27,vm28,vm29"/>
+  <AFFINITY AT="" TYPE="-2" TRAFFIC="0" DELAY="0" VMIDS="vm16,vm26"/>
+  
+  
+</DATA>

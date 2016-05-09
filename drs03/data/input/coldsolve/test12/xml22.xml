@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DATA VERSION="0.1">
+  <AFFINITY AT="" TYPE="-2" TRAFFIC="" DELAY="0" VMIDS="vm1,vm4"/>
+  <AFFINITY AT="" TYPE="-1" TRAFFIC="" DELAY="0" VMIDS="vm8,vm9"/>
+  <AFFINITY AT="" TYPE="0" TRAFFIC="100" DELAY="0" VMIDS="vm4,vm5"/>
+</DATA>

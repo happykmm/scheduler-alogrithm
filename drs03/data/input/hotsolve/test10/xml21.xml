@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DATA VERSION="0.1">
+  <SW LEV="0" PORTNUM="24" ID="sw0"/>
+  <SW LEV="0" PORTNUM="24" ID="sw1"/>
+  <SW LEV="0" PORTNUM="24" ID="sw2"/>
+  <SW LEV="1" PORTNUM="24" ID="sw3"/>
+  <S2S DELAY="1" BW="1024" DST="sw3" SRC="sw0" ID="0"/>
+  <S2S DELAY="1" BW="1024" DST="sw3" SRC="sw1" ID="1"/>
+  <S2S DELAY="1" BW="1024" DST="sw3" SRC="sw2" ID="2"/>
+  <P2S DELAY="1" BW="1024" DPORT="0" DST="sw0" SPORT="0" SRC="pm0" ID="0"/>
+  <P2S DELAY="1" BW="1024" DPORT="1" DST="sw0" SPORT="0" SRC="pm1" ID="1"/>
+  <P2S DELAY="1" BW="1024" DPORT="2" DST="sw0" SPORT="0" SRC="pm2" ID="2"/>
+  <P2S DELAY="1" BW="1024" DPORT="3" DST="sw0" SPORT="0" SRC="pm3" ID="3"/>
+  <P2S DELAY="1" BW="1024" DPORT="4" DST="sw0" SPORT="0" SRC="pm4" ID="4"/>
+  <P2S DELAY="1" BW="1024" DPORT="5" DST="sw0" SPORT="0" SRC="pm5" ID="5"/>
+  <P2S DELAY="1" BW="1024" DPORT="6" DST="sw0" SPORT="0" SRC="pm6" ID="6"/>
+  <P2S DELAY="1" BW="1024" DPORT="7" DST="sw0" SPORT="0" SRC="pm7" ID="7"/>
+  <P2S DELAY="1" BW="1024" DPORT="8" DST="sw0" SPORT="0" SRC="pm8" ID="8"/>
+  <P2S DELAY="1" BW="1024" DPORT="9" DST="sw0" SPORT="0" SRC="pm9" ID="9"/>
+  <P2S DELAY="1" BW="1024" DPORT="0" DST="sw1" SPORT="0" SRC="pm10" ID="10"/>
+  <P2S DELAY="1" BW="1024" DPORT="1" DST="sw1" SPORT="0" SRC="pm11" ID="11"/>
+  <P2S DELAY="1" BW="1024" DPORT="2" DST="sw1" SPORT="0" SRC="pm12" ID="12"/>
+  <P2S DELAY="1" BW="1024" DPORT="3" DST="sw1" SPORT="0" SRC="pm13" ID="13"/>
+  <P2S DELAY="1" BW="1024" DPORT="4" DST="sw1" SPORT="0" SRC="pm14" ID="14"/>
+  <P2S DELAY="1" BW="1024" DPORT="5" DST="sw1" SPORT="0" SRC="pm15" ID="15"/>
+  <P2S DELAY="1" BW="1024" DPORT="6" DST="sw1" SPORT="0" SRC="pm16" ID="16"/>
+  <P2S DELAY="1" BW="1024" DPORT="7" DST="sw1" SPORT="0" SRC="pm17" ID="17"/>
+  <P2S DELAY="1" BW="1024" DPORT="8" DST="sw1" SPORT="0" SRC="pm18" ID="18"/>
+  <P2S DELAY="1" BW="1024" DPORT="9" DST="sw1" SPORT="0" SRC="pm19" ID="19"/>
+  <P2S DELAY="1" BW="1024" DPORT="0" DST="sw2" SPORT="0" SRC="pm20" ID="20"/>
+  <P2S DELAY="1" BW="1024" DPORT="1" DST="sw2" SPORT="0" SRC="pm21" ID="21"/>
+  <P2S DELAY="1" BW="1024" DPORT="2" DST="sw2" SPORT="0" SRC="pm22" ID="22"/>
+  <P2S DELAY="1" BW="1024" DPORT="3" DST="sw2" SPORT="0" SRC="pm23" ID="23"/>
+  <P2S DELAY="1" BW="1024" DPORT="4" DST="sw2" SPORT="0" SRC="pm24" ID="24"/>
+  <P2S DELAY="1" BW="1024" DPORT="5" DST="sw2" SPORT="0" SRC="pm25" ID="25"/>
+  <P2S DELAY="1" BW="1024" DPORT="6" DST="sw2" SPORT="0" SRC="pm26" ID="26"/>
+  <P2S DELAY="1" BW="1024" DPORT="7" DST="sw2" SPORT="0" SRC="pm27" ID="27"/>
+  <P2S DELAY="1" BW="1024" DPORT="8" DST="sw2" SPORT="0" SRC="pm28" ID="28"/>
+  <P2S DELAY="1" BW="1024" DPORT="9" DST="sw2" SPORT="0" SRC="pm29" ID="29"/>
+  
+</DATA>

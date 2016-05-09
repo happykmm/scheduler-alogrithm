@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DATA VERSION="0.1">
+  <SW LEV="0" PORTNUM="24" ID="sw0"/>
+  <P2S DELAY="1" BW="1024" DPORT="0" DST="sw0" SPORT="0" SRC="pm0" ID="0"/>
+  <P2S DELAY="1" BW="1024" DPORT="1" DST="sw0" SPORT="0" SRC="pm1" ID="1"/>
+</DATA>

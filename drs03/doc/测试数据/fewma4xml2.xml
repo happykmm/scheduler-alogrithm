@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DATA VERSION="0.1" TYPE="1">   
+  <HISTDATA ID="hd9" REQCONFID="ID_FUSED_EWMA"  TARGET="vm9" PERIOD="5" DATANUM="5" STARTTIME="0" TIMERANGE="5">
+		<SAMPLE ID="0" TAG="NET">
+      <CYCLE ID="0" DATA="35,30,25,20,15"/>
+		</SAMPLE>
+  </HISTDATA>
+</DATA>

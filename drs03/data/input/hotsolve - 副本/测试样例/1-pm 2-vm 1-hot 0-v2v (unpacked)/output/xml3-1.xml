@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ACTION VERSION="0.1">
+  <MSG ID="ID_0" CONT="the sum of unpackedvms' load (in hotsolve) : cpu = 31.70, mem = 1190.25, diskio = 1.88, fpga = 15.07, eth0 = 129.89, eth1 = 72.66, eth2 = 197.63, eth3 = 125.27" VMLIST="vm1" TYPE="PLACE"/>
+</ACTION>

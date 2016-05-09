@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ACTION VERSION="0.1">
+  <MIGRATE ID="ID_0" SRC="pm4" VMID="vm2" DST="pm6"/>
+  <MIGRATE ID="ID_1" SRC="pm4" VMID="vm3" DST="pm6"/>
+</ACTION>

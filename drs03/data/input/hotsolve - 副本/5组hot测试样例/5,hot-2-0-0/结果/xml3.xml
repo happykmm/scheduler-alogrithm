@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ACTION VERSION="0.1">
+  <MIGRATE ID="ID_0" SRC="pm1" VMID="vm2" DST="pm0"/>
+  <MSG ID="ID_1" CONT="the sum of unpackedvms' load (in hotsolve) : cpu = 358.06, mem = 1528.75, diskio = 4.77, fpga = 28.06, eth0 = 164.52, eth1 = 207.35, eth2 = 295.08, eth3 = 129.49" VMLIST="vm0,vm1" TYPE="HOTSOLVE"/>
+</ACTION>

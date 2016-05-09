@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ACTION VERSION="0.1">
+  <PLACE ID="ID_0" TRAGET="pm70" VMID="vm1"/>
+  <PLACE ID="ID_1" TRAGET="pm49" VMID="vm2"/>
+  <PLACE ID="ID_2" TRAGET="pm87" VMID="vm3"/>
+  <PLACE ID="ID_3" TRAGET="pm74" VMID="vm4"/>
+  <PLACE ID="ID_4" TRAGET="pm77" VMID="vm5"/>
+  <PLACE ID="ID_5" TRAGET="pm14" VMID="vm6"/>
+</ACTION>

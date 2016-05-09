@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ACTION VERSION="0.1">
+  <MSG ID="ID_0" CONT="Some VMs can't be placed" VMLIST="vm1" TYPE="PLACE"/>
+  <MSG ID="ID_1" CONT="Some VMs can't be placed" VMLIST="vm2" TYPE="PLACE"/>
+  <MSG ID="ID_2" CONT="Some VMs can't be placed" VMLIST="vm3" TYPE="PLACE"/>
+  <MSG ID="ID_3" CONT="Some VMs can't be placed" VMLIST="vm4" TYPE="PLACE"/>
+  <MSG ID="ID_4" CONT="Some VMs can't be placed" VMLIST="vm5" TYPE="PLACE"/>
+  <MSG ID="ID_5" CONT="Some VMs can't be placed" VMLIST="vm6" TYPE="PLACE"/>
+</ACTION>

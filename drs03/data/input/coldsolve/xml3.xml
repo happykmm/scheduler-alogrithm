@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ACTION VERSION="0.1">
+  <DOWN ID="ID_0" TRAGET="pm1"/>
+  <DOWN ID="ID_1" TRAGET="pm0"/>
+  <MIGRATE ID="ID_2" SRC="pm0" VMID="vm1" DST="pm3"/>
+  <MIGRATE ID="ID_3" SRC="pm1" VMID="vm2" DST="pm3"/>
+</ACTION>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DATA VERSION="0.1">
+  <SW LEV="0" PORTNUM="24" ID="sw0"/>
+  <SW LEV="0" PORTNUM="24" ID="sw1"/>
+  <SW LEV="1" PORTNUM="24" ID="sw2"/>
+  <P2S DELAY="1" BW="1024" DPORT="0" DST="sw0" SPORT="0" SRC="pm0" ID="0"/>
+  <P2S DELAY="1" BW="1024" DPORT="1" DST="sw0" SPORT="1" SRC="pm1" ID="1"/>
+  <P2S DELAY="1" BW="1024" DPORT="2" DST="sw0" SPORT="2" SRC="pm2" ID="2"/>
+  <P2S DELAY="1" BW="1024" DPORT="0" DST="sw1" SPORT="3" SRC="pm3" ID="3"/>
+  <P2S DELAY="1" BW="1024" DPORT="1" DST="sw1" SPORT="0" SRC="pm4" ID="4"/>
+  <S2S DELAY="1" BW="1024" DST="sw2" SRC="sw0" ID="0"/>
+  <S2S DELAY="1" BW="1024" DST="sw2" SRC="sw1" ID="1"/>
+</DATA>

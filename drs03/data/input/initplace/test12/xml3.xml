@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ACTION VERSION="0.1">
+  <PLACE ID="ID_0" TRAGET="pm1" VMID="vm0"/>
+  <PLACE ID="ID_1" TRAGET="pm1" VMID="vm1"/>
+  <PLACE ID="ID_2" TRAGET="pm1" VMID="vm2"/>
+  <PLACE ID="ID_3" TRAGET="pm1" VMID="vm3"/>
+  <PLACE ID="ID_4" TRAGET="pm15" VMID="vm4"/>
+  <PLACE ID="ID_5" TRAGET="pm15" VMID="vm5"/>
+  <PLACE ID="ID_6" TRAGET="pm15" VMID="vm6"/>
+  <PLACE ID="ID_7" TRAGET="pm7" VMID="vm7"/>
+  <PLACE ID="ID_8" TRAGET="pm7" VMID="vm8"/>
+  <PLACE ID="ID_9" TRAGET="pm7" VMID="vm9"/>
+  <PLACE ID="ID_10" TRAGET="pm32" VMID="vm10"/>
+  <PLACE ID="ID_11" TRAGET="pm32" VMID="vm11"/>
+  <PLACE ID="ID_12" TRAGET="pm32" VMID="vm12"/>
+  <PLACE ID="ID_13" TRAGET="pm31" VMID="vm13"/>
+  <PLACE ID="ID_14" TRAGET="pm31" VMID="vm14"/>
+  <PLACE ID="ID_15" TRAGET="pm32" VMID="vm15"/>
+  <PLACE ID="ID_16" TRAGET="pm31" VMID="vm16"/>
+  <PLACE ID="ID_17" TRAGET="pm31" VMID="vm17"/>
+  <PLACE ID="ID_18" TRAGET="pm24" VMID="vm18"/>
+  <PLACE ID="ID_19" TRAGET="pm26" VMID="vm19"/>
+  <PLACE ID="ID_20" TRAGET="pm24" VMID="vm20"/>
+  <PLACE ID="ID_21" TRAGET="pm24" VMID="vm21"/>
+  <PLACE ID="ID_22" TRAGET="pm26" VMID="vm22"/>
+  <PLACE ID="ID_23" TRAGET="pm26" VMID="vm23"/>
+  <PLACE ID="ID_24" TRAGET="pm26" VMID="vm24"/>
+  <PLACE ID="ID_25" TRAGET="pm24" VMID="vm25"/>
+</ACTION>

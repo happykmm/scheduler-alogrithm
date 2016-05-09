@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ACTION VERSION="0.1">
+  <MSG ID="ID_0" CONT="Some VMs can't be placed" VMLIST="vm0" TYPE="PLACE"/>
+  <MSG ID="ID_1" CONT="Some VMs can't be placed" VMLIST="vm1" TYPE="PLACE"/>
+  <MSG ID="ID_2" CONT="Some VMs can't be placed" VMLIST="vm2" TYPE="PLACE"/>
+  <MSG ID="ID_3" CONT="Some VMs can't be placed" VMLIST="vm3" TYPE="PLACE"/>
+  <MSG ID="ID_4" CONT="Some VMs can't be placed" VMLIST="vm4" TYPE="PLACE"/>
+  <MSG ID="ID_5" CONT="Some VMs can't be placed" VMLIST="vm5" TYPE="PLACE"/>
+  <MSG ID="ID_6" CONT="Some VMs can't be placed" VMLIST="vm6" TYPE="PLACE"/>
+  <MSG ID="ID_7" CONT="Some VMs can't be placed" VMLIST="vm7" TYPE="PLACE"/>
+  <MSG ID="ID_8" CONT="Some VMs can't be placed" VMLIST="vm8" TYPE="PLACE"/>
+  <MSG ID="ID_9" CONT="Some VMs can't be placed" VMLIST="vm9" TYPE="PLACE"/>
+  <MSG ID="ID_10" CONT="Some VMs can't be placed" VMLIST="vm10" TYPE="PLACE"/>
+  <MSG ID="ID_11" CONT="Some VMs can't be placed" VMLIST="vm11" TYPE="PLACE"/>
+  <MSG ID="ID_12" CONT="Some VMs can't be placed" VMLIST="vm12" TYPE="PLACE"/>
+  <MSG ID="ID_13" CONT="Some VMs can't be placed" VMLIST="vm13" TYPE="PLACE"/>
+  <MSG ID="ID_14" CONT="Some VMs can't be placed" VMLIST="vm14" TYPE="PLACE"/>
+  <MSG ID="ID_15" CONT="Some VMs can't be placed" VMLIST="vm15" TYPE="PLACE"/>
+  <MSG ID="ID_16" CONT="Some VMs can't be placed" VMLIST="vm16" TYPE="PLACE"/>
+  <MSG ID="ID_17" CONT="Some VMs can't be placed" VMLIST="vm17" TYPE="PLACE"/>
+  <MSG ID="ID_18" CONT="Some VMs can't be placed" VMLIST="vm18" TYPE="PLACE"/>
+  <MSG ID="ID_19" CONT="Some VMs can't be placed" VMLIST="vm19" TYPE="PLACE"/>
+  <MSG ID="ID_20" CONT="Some VMs can't be placed" VMLIST="vm20" TYPE="PLACE"/>
+  <MSG ID="ID_21" CONT="Some VMs can't be placed" VMLIST="vm21" TYPE="PLACE"/>
+  <MSG ID="ID_22" CONT="Some VMs can't be placed" VMLIST="vm22" TYPE="PLACE"/>
+  <MSG ID="ID_23" CONT="Some VMs can't be placed" VMLIST="vm23" TYPE="PLACE"/>
+  <MSG ID="ID_24" CONT="Some VMs can't be placed" VMLIST="vm24" TYPE="PLACE"/>
+  <MSG ID="ID_25" CONT="Some VMs can't be placed" VMLIST="vm25" TYPE="PLACE"/>
+</ACTION>
