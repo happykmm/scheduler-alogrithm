@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<DATA VERSION="0.1">
-  <PEDEGE PM1ID="0" PM2ID="1" PM1Port="eth0" PM2Port="eth0" DELAY ="1" BANDWIDTH="1024"/>
-  <PEDEGE PM1ID="0" PM2ID="2" PM1Port="eth0" PM2Port="eth0" DELAY="3" BANDWIDTH="1024"/>
-  <PEDEGE PM1ID="0" PM2ID="3" PM1Port="eth0" PM2Port="eth0" DELAY ="3" BANDWIDTH="1024"/>
-  <PEDEGE PM1ID="1" PM2ID="2" PM1Port="eth0" PM2Port="eth0" DELAY ="3" BANDWIDTH="1024"/>
-  <PEDEGE PM1ID="1" PM2ID="3" PM1Port="eth0" PM2Port="eth0" DELAY ="3" BANDWIDTH="1024"/>
-  <PEDEGE PM1ID="2" PM2ID="3" PM1Port="eth0" PM2Port="eth0" DELAY ="1" BANDWIDTH="1024"/>
-</DATA>

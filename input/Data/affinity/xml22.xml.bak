@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DATA VERSION="0.1">
+    <AFFINITY AT="pm01" TYPE="0" DELAY="1" TRAFFIC="5" VMIDS="vm0,vm1"/>
+    <AFFINITY AT=" " TYPE="0" DELAY="3" TRAFFIC="4" VMIDS="vm0,vm3"/>
+    <AFFINITY AT=" " TYPE="0" DELAY="1" TRAFFIC="2" VMIDS="vm1,vm3"/>
+    <AFFINITY AT=" " TYPE="0" DELAY="3" TRAFFIC="9" VMIDS="vm2,vm3"/>
+    <AFFINITY AT=" " TYPE="0" DELAY="3" TRAFFIC="3" VMIDS="vm2,vm5"/>
+    <AFFINITY AT=" " TYPE="0" DELAY="3" TRAFFIC="6" VMIDS="vm2,vm3"/>
+    <AFFINITY AT=" " TYPE="0" DELAY="3" TRAFFIC="1" VMIDS="vm4,vm3"/>
+    <AFFINITY AT=" " TYPE="0" DELAY="3" TRAFFIC="8" VMIDS="vm5,vm3"/>
+    <AFFINITY AT=" " TYPE="-1" DELAY="3" TRAFFIC="15" VMIDS="vm6,vm8"/>
+    <AFFINITY AT=" " TYPE="-2" DELAY="3" TRAFFIC="15" VMIDS="vm1,vm9"/>
+    <AFFINITY AT=" " TYPE="2" DELAY="3" TRAFFIC="15" VMIDS="vm10,vm11,vm12"/>
+    <AFFINITY AT=" " TYPE="3" DELAY="3" TRAFFIC="15" VMIDS="vm13,vm14"/>
+</DATA>
